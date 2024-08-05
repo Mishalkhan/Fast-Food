@@ -1,0 +1,1637 @@
+.FirstDiv
+{
+	background: url(../images/burger/background-burgers-home-top.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.slide2
+{
+	margin-left: 23%;
+}
+
+.current
+{
+	border-bottom: 5px solid red;
+}
+
+.current1
+{
+	border-bottom: 5px solid #F1FF38;
+}
+
+.current2
+{
+	border-bottom: 5px solid #FAC310;
+}
+
+
+.SecondDiv
+{
+	/*font-family: "Times New Roman", Times;*/
+	margin-top: 11%;
+	padding-bottom: 9%;
+	font-family: "Montserrat";
+}
+
+.line1
+{
+	background: #FF0000;
+	color: white;
+	width: 210px;
+	text-align: center;
+	font-weight: bold;
+	padding: 2px 1px 3px 1px;
+	font-size: 110%;
+	margin-bottom: 0px;
+}
+
+.line2
+{
+	color: white;
+	font-size: 68px;
+	font-weight: bold;
+	font-family: "Montserrat";
+}
+
+.btn1
+{
+	border-radius: 0px;
+	padding: 13px 30px 13px 30px;
+}
+
+.Bbtn1
+{
+	color: white;
+	background-color: #FF0000;
+	border:2px solid #FF0000;
+}
+
+.Bbtn1:hover
+{
+	color: #FF0000;
+	background-color: transparent;
+	border:2px solid #FF0000;
+}
+
+.clrRed
+{
+	background-color: #FF0000;
+}
+
+.cardChange
+{
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0px;
+    border-radius: .25rem;
+}
+
+.card1
+{
+	text-align: center;
+	align-items: center;
+	padding: 40px 0px 35px 0px;
+	border: 0px;
+	color: white;
+	background: #FF0000;
+}
+
+.cardimg
+{
+	width: 140px;
+	height: 140px;
+}
+
+.clrGrey
+{
+	background: #F6F8FA;
+}
+
+.clrGrey .content1
+{
+	text-align: center;
+	align-content: center;
+	background-color: white;
+	padding-top: 8%;
+	padding-bottom: 5%;
+}
+
+.clrGrey .line1
+{
+	width: 14%;
+	font-size: 90%;
+	font-weight: bold;
+	background: #FF0000;
+	padding: 2px;
+}
+
+.clrGrey .line2
+{
+	font-size: 300%;
+	font-weight: bold;
+}
+
+.card2
+{
+	text-align: center;
+	align-items: center;
+	padding: 0px;
+	color: black;
+	background: white;
+}
+
+.cardimg2
+{
+	height: 320px;
+	width: 320px;
+}
+
+.btn2
+{
+	border-radius: 0px;
+	padding: 13px 30px 13px 30px;
+	color: #FF0000;
+	background-color: white;
+	border:2px solid #FF0000;
+}
+
+.btn2:hover
+{
+	color: white;
+	background-color: #FF0000;
+	border:2px solid #FF0000;
+}
+
+.cardimg1
+{
+	width: 290px;
+	height: 300px;
+}
+/*.img
+{
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+}*/
+
+.img1
+{
+	background: url(../images/burger/cell-background-burger-left-1.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+/*	border-right: 5.5px solid white;*/
+	border-bottom: 4px solid white;
+}
+
+.img2
+{
+	background: url(../images/burger/cell-background-burger-right-1.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img3
+{
+	background: url(../images/burger/cell-background-burger-left-2.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+/*	border-right: 5.5px solid white;*/
+	border-bottom: 4px solid white;
+}
+
+.img4
+{
+	background: url(../images/burger/cell-background-burger-right-2.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.img5
+{
+	background: url(../images/burger/cell-background-burger-left-3.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+/*	border-right: 5.5px solid white;*/
+	border-bottom: 4px solid white;
+}
+
+.img6
+{
+	background: url(../images/burger/cell-background-burger-right-3.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.content2
+{
+	font-family: "Montserrat";
+	padding-top: 15%;
+	padding-left: 10%;
+/*	padding-right: 8%;
+	padding-bottom: 15%;*/
+}
+
+.content2 .new
+{
+	background-color: #FF0000;
+	color: white;
+	padding: 2px 10px 3px 10px;
+	text-align: left;
+}
+
+.content2 .e1
+{
+	padding-top: 13%;
+}
+
+.content2 .e2
+{
+	padding-top: 5.5%;
+}
+
+.content2 .line1
+{
+	font-size: 3em;
+	background: transparent;
+	color: white;
+	font-family: "Montserrat";
+}
+
+.content2 .line2
+{
+	font-size: 100%;
+	background: transparent;
+	line-height: 1.8;
+	opacity: .6;
+	font-family: "Montserrat";
+	font-size: 1.1em;
+    margin-bottom: .5em;
+}
+
+.price
+{
+	color: white;
+	font-size: 300%;
+	font-family: "Montserrat";
+}
+
+.delTxt
+{
+	color: #5E504F;
+}
+
+.#FF0000Txt
+{
+	color: #FF0000;
+}
+
+.btn3
+{
+	border-radius: 0px;
+	padding: 13px 30px 13px 30px;
+	color: white;
+	background-color: transparent;
+	border:2px solid white;
+	font-family: "Montserrat";
+}
+
+.btn3:hover
+{
+	color: black;
+	background-color: white;
+	border: 2px solid white;
+}
+
+.blackback
+{
+	background: #232323;
+}
+
+.blackfront
+{
+	color: #A7A7A7;
+}
+
+.new
+{
+	background-color: #FF0000;
+	color: white;
+	padding: 2px 10px 3px 10px;
+	width: 15%;
+	text-align: center;
+	margin-top: 15%;
+}
+
+.num
+{
+	font-size: 200%;
+}
+
+/*.blackspace
+{
+	margin-left: 7%;
+}*/
+
+.icon1
+{
+	width: 40px;
+	padding: 10px 80px 10px 0px;
+	color: #FF0000;
+	background: transparent;
+	font-size: 400%;
+	text-align: center;
+}
+
+.icon2
+{
+	width: 40px;
+	padding: 10px 0px 10px 0px;
+	border-radius: 0px;
+	border: 1px solid white;
+	color: black;
+	background: white;
+	font-size: 120%;
+	text-align: center;
+}
+
+.icon2:hover
+{
+	background: black;
+	color:white;
+	border: 1px solid white;
+	transition: .5s;
+}
+
+.spaces1
+{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+
+.redBack
+{
+	background: #FF0000;
+	width: 100%;
+	height: auto;
+	position: relative;
+	z-index: 1;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.redFront
+{
+	font-size: 250%;
+	padding: 40px 100px 40px 20px;
+}
+
+.btn4
+{
+	border-radius: 0px;
+	padding: 13px 30px 13px 30px;
+	color: white;
+	background-color: transparent;
+	border:2px solid white;
+	float: right;
+}
+
+.btn4:hover
+{
+	color: black;
+	background-color: white;
+	border:2px solid white;
+	transition: .5s;
+}
+
+.lastLine ul li
+{
+	display: inline-block;
+	list-style: none;
+	color: black;
+}
+
+.lastA
+{
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.copyright
+{
+	width: 20%;
+}
+
+.lastLink
+{
+	float: right;
+}
+
+.map
+{
+	width: 100%;
+	height: 100%;
+}
+
+.spaceInCarousel{
+	margin-top: 10%;
+	margin-left: 60px;
+	justify-content: center;
+	line-height: 2;
+}
+
+.size
+{
+	width: 500px;
+	height: 460px;
+	margin-left: 70px;
+}
+
+.carousel-control-prev1
+{
+	left: -76px
+}
+
+.carousel-control-next1
+{
+	right: -76px;
+}
+
+.iconPN
+{
+	color: black;
+	font-size: 50px;
+}
+
+/*Pizza*/
+
+.PFirstDiv
+{
+	background: url(../images/pizza/background-pizza-home-top.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.pnav
+{
+	font-family: "Oswald";
+}
+
+.PSecondDiv
+{
+	margin-top: 24%;
+	padding-bottom: 3%;
+	text-align: center;
+	align-items: center;
+	color: white;
+	font-family: "Oswald";
+}
+
+.PSecondDiv .Pline1
+{
+	font-size: 150%;
+}
+
+.PSecondDiv .Pbtn1
+{
+	color: white;
+	background-color: #75D007;
+	border:2px solid #75D007;
+}
+
+.PSecondDiv .Pbtn1:hover
+{
+	color: #75D007;
+	background-color: transparent;
+	border:2px solid #75D007;
+}
+
+.designBack
+{
+	background: url(../images/pizza/background-tree-white.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Pcard1
+{
+	background: transparent;
+	text-align: center;
+	align-items: center;
+	padding: 40px 0px 35px 0px;
+	border: 0px;
+}
+
+.pcontent1
+{
+	padding-top: 80px; 
+}
+.designBack .pcontent1 .pline1, .redCarouselLine
+{
+	padding-bottom: 10px;
+	color: red;
+	background: transparent;
+	font-size: 50px;
+	font-family: fantasy;
+}
+
+.pbtn2
+{
+	margin: 4% 0px 8% 0px;
+	color: red;
+	background-color: transparent;
+	border:2px solid red;
+}
+
+.pbtn2:hover
+{
+	color: white;
+	background-color: red;
+	border:2px solid red;
+}
+
+.pizzaDiv
+{
+	background: url(../images/pizza/cell-background-pizza-right.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.pizzaContent 
+{
+	padding: 12% 0px 8% 12px;
+	line-height: 2;
+}
+
+.pizzaContent .pline1
+{
+	color: white;
+	background: #75D007;
+	padding: 2px 4px 2px 4px;
+	font-family: cursive;
+}
+
+.pizzaContent .pline2
+{
+	color: white;
+	font-size: 48px;
+	font-family: fantasy;
+}
+
+.pizzaContent .pline3
+{
+	color: #ABABB0;
+	font-size: 1.1em;
+    font-family: sans-serif;
+}
+
+.pbtn3
+{
+	color: white;
+	background-color: transparent;
+	border:2px solid white;
+}
+
+.pbtn3:hover
+{
+	color: black;
+	background-color: white;
+	border:2px solid white;
+}
+
+.blackBar
+{
+	background: black;
+	width: 100%;
+	height: 20%;
+}
+
+.clrGreen
+{
+	background-color: #75D007;
+}
+
+.pcard1
+{
+	text-align: center;
+	align-items: center;
+	padding: 40px 0px 35px 0px;
+	border: 0px;
+	color: white;
+	background: transparent;
+}
+
+.clrGreen .pline1
+{
+	font-size: 1.1em;
+}
+
+.clrGreen .pline2
+{
+	font-size: .85em;
+}
+
+.img4pizza
+{
+	width: 100%;
+}
+
+.pmap
+{
+	width: 100%;
+	height: 400px;
+}
+
+/*Truck*/
+
+.tFirstDiv
+{
+	background: url(../images/truck/background-food-truck-home-top.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.imgTruck
+{
+	width: 100%;
+
+}
+.tSecondDiv
+{
+	text-align: center;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+.bluePrint
+{
+	background: url(../images/truck/background-food-truck-page-01.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.tLine
+{
+	color: #FFC40F;
+	font-size: 14.4px;
+	padding-top: 14%;
+}
+
+.tHead
+{
+	font-size: 48px;
+	color: white;
+    font-family: fantasy;
+}
+
+ .tSubContent
+{
+	width: 100%;
+	margin:15px 0px 0px 0px;
+	display: flex;
+}
+
+.heading
+{
+	width: 100%;
+	font-size: 19.2px;
+	color: white;
+    font-family: fantasy;
+    line-height: 1.5;
+   /* margin-top: 10%;*/
+}
+
+.subHeading
+{
+	font-size: 14.4px;
+	color: #A1AEB3;
+	font-family: "Lato";
+}
+
+.tPrice
+{
+	width: 70px;
+	font-size: 19.2px;
+	color: white;
+	float: right;
+	padding-top: 10px;
+/*	margin: 0px 0px 30px 10%;
+	padding: 19px 0px 0px 75px;*/
+}
+
+.dash
+{
+	background-color: #A1AEB3;
+}
+
+.icont1
+{
+	color: #FFC40F;
+}
+
+.tbtn1
+{
+	color: white;
+	background-color: transparent;
+	border:2px solid white;
+	margin: 3% 0% 3% 0%;
+}
+
+.tbtn1:hover
+{
+	color: #13333E;
+	background-color: white;
+	border:2px solid white;
+}
+
+.youtubeDiv
+{
+	background: url(../images/truck/background-food-truck-page-03.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.tSubContent1
+{
+	color: #858585;
+	font-size: 16px;
+    font-family: -webkit-pictograph;
+}
+
+.youtubeDiv .tContent
+{
+	padding: 0% 2% 7% 12%;
+}
+
+.youtube
+{
+	width: 100%;
+	height: 100%;
+}
+
+.yellowPrint
+{
+	background: url(../images/truck/background-food-truck-page-02.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.yellowContent
+{
+	text-align: center;
+	align-items: center;
+	padding-top: 10%;
+	padding-bottom: 4%;
+}
+
+.girlpic
+{
+	border-radius: 50%;
+	height: 80px;
+	width: 80px;
+}
+
+.quote
+{
+	font-size: 36px;
+}
+
+.headName
+{
+	font-size: 19.2px;
+}
+
+.headCity
+{
+	font-size: 14.4px;
+	color: #333333;
+}
+
+.Tblackback
+{
+	background: url(../images/truck/cell-background-truck-food-footer.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	z-index: 1;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.icont2
+{
+	color: #FFC40F;
+}
+
+.tBlueBack
+{
+	background: #153641;
+	width: 100%;
+	height: auto;
+	position: relative;
+	z-index: 1;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+/*Green*/
+
+.GFirstDiv
+{
+	background:linear-gradient(rgba(5,15,24,0.5),rgba(26,9,19,0.5)), url(../images/green/background-organic-home-top.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*-webkit-filter: grayscale(100%);  Safari 6.0 - 9.0 
+  filter: grayscale(100%);*/
+}
+
+.blackNavG
+{
+	background: #232323;
+/*	padding: 0px 20px 0px 20px;*/
+/*	display: flex;*/
+}
+
+.navLeftG
+{
+	width: 100%;
+	font-size: 14px;
+	padding-left: 20px;
+}
+
+.navGlist
+{
+	list-style: none;
+	float: right;
+}
+
+.GreenBack
+{
+	background: #8EC63F;
+}
+
+.navRight
+{
+	margin-left: 24.5%;
+}
+
+.lineG1
+{
+	color: #8EC63F;
+	font-size: 16px;
+	margin-top: 7%;
+	margin-bottom: 0px;
+/*	font-family: ;*/
+}
+
+.spacelineG1
+{
+	padding-top: 100px;
+}
+
+.lineG2
+{
+	color: #8EC63F;
+	font-size: 96px;
+/*	font-family: ;*/
+}
+
+.slineG2
+{
+	font-size: 60px;
+	font-family: serif;
+}
+
+/*.slineG3
+{
+	color: #818283;
+}*/
+
+.dashSmallg
+{
+	background-color: #8EC63F;
+	width: 10%;
+	border: 2px solid #8EC63F;
+	float: left;
+}
+
+.lineG3
+{
+	color: white;
+	font-size: 20px;
+	opacity: 0.8;
+	margin-bottom: 5%;
+	text-align: left;
+/*	font-family: ;*/
+}
+
+.Gbtn
+{
+	border-radius: 50px;
+	padding: 13px 30px 13px 30px;
+}
+
+.Gbtn1
+{
+	color: white;
+	background-color: #8EC63F;
+	border:2px solid #8EC63F;
+}
+
+.Gbtn1:hover
+{
+	color: #8EC63F;
+	background-color: transparent;
+	border:2px solid #8EC63F;
+}
+
+.Gbtn2
+{
+	color: white;
+	background-color: transparent;
+	border:2px solid white;
+}
+
+.Gbtn2:hover
+{
+	color: #282923;
+	background-color: white;
+	border:2px solid white;
+}
+.tableG
+{
+	background: black;
+	opacity: .8;
+	width: 105%;
+}
+
+.tablehead
+{
+	font-size: 120%;
+	opacity: 1;
+}
+
+.iconG1
+{
+	color: #8EC63F;
+	font-size: 400%;
+}
+
+.iconG1:hover
+{
+	color: white;
+}
+
+.iconGs1
+{
+	color: #8EC63F;
+}
+
+.iconG1White:hover
+{
+	color: white;
+}
+
+.iconG1Black:hover
+{
+	color: red;
+}
+
+.fields
+{
+	border-radius: 50px;
+	padding: 10px 20px 10px 20px;
+	border: 1.1px solid #262624;
+}
+
+.f1
+{
+	width: 85%;
+}
+
+.blackGLine
+{
+	padding: 3% 0px 3% 10%;
+	color: #FF0000;
+	background: black;
+}
+
+.parentOfLeave
+{
+	position: relative;
+	padding: 6% 0px 6% 10%;
+	background: black;
+	color: #8EC63F;
+	width: 100%;
+}
+
+.leave
+{
+	position: absolute;
+	overflow: hidden;
+	bottom: -55px;
+	right: 0px;
+}
+
+.imageGreen1
+{
+	width: 100%;
+}
+
+.parentOfLeave
+{
+	position: relative;
+	padding: 6% 0px 6% 10%;
+	background: black;
+	color: #8EC63F;
+	width: 100%;
+}
+
+.leave
+{
+	position: absolute;
+	bottom: -55px;
+	right: 0px;
+}
+
+.parentOfLeave2
+{
+	position: relative;
+}
+
+.leave2
+{
+	position: absolute;
+	/*top:466px;*/
+	/*top: 10px;*/
+	left: 35px;
+	bottom: -53px
+}
+
+.hrDivWhiteInG
+{
+	border: 1px solid white;
+}
+
+.cardimgG1
+{
+	width: 100%;
+	height: auto;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.cardGhead
+{
+	font-family: lato;
+}
+
+.spaceGcard
+{
+	padding-bottom: 8%;
+}
+
+.anchorInGreen,.anchorInAbout
+{
+	border-bottom: 2px solid #C1C1C1;
+	font-size: 15px;
+	text-decoration: none;
+	color: black;
+}
+
+.anchorInGreen:hover
+{
+	color: #8EC63F;
+	border-bottom: 2px solid #8EC63F;
+	text-decoration: none;
+}
+
+.Gbtn3
+{
+	color: #8EC63F;
+	background-color: transparent;
+	border:2px solid #8EC63F;
+}
+
+.Gbtn3:hover
+{
+	color: white;
+	background-color: #8EC63F;
+	border:2px solid #8EC63F;
+}
+
+.GreenMidDiv
+{
+	background: url(../images/green/background-organic-home-numbers.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.dashSmallg2
+{
+	background-color: #8EC63F;
+	width: 7%;
+	border: 2px solid #8EC63F;
+}
+
+.lineG11
+{
+	color: #8EC63F;
+	font-size: 13px;
+	margin-top: 7%;
+	margin-bottom: 0px;
+}
+
+.Gprice
+{
+	font-size: 70px;
+}
+
+.parentOfLeave3
+{
+	position: relative;
+}
+
+.parentOfLeave4
+{
+	position: relative;
+}
+
+.leave3
+{
+	position: absolute;
+	bottom: 134px;
+	left: 0px;
+}
+
+.leave33
+{
+	position: absolute;
+	bottom: 208px;
+    left: 70px;
+}
+
+.cardG1
+{
+	height: 300px;
+}
+
+.gPicGrid
+{
+	width: 100%;
+	height: 100%;
+	border-radius: 0px;
+}
+
+.GreenBack
+{
+	background: #8EC63F;
+}
+
+.GreenBack1
+{
+	background: #8EC63F;
+	color: white;
+    padding: 2px 10px 3px 10px;
+    text-align: left;
+    width: 15%;
+    text-align: center;
+    margin-top: 15%;
+}
+
+.clrGreenText
+{
+	color: #8EC63F;
+}
+
+/*About Us*/
+
+.AuFirstDiv
+{
+	background: url(../images/about/hero_inner_page.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.AuSecondDiv
+{
+	font-family: inherit;
+}
+
+.AuHead1
+{
+	font-size: 55px;
+	color: #494A49;
+}
+
+.AuLine
+{
+	font-size: 20px;
+	color: #A3A4A4;
+	font-family: -webkit-pictograph;
+}
+
+.dashSmallg3
+{
+	background-color: red;
+	width: 75px;
+	border: 2px solid red;
+	float: left;
+}
+
+.new1 
+{
+    background-color: #FF0000;
+    padding: 2px 10px 3px 10px;
+    width: 123px;
+}
+
+.iconAu
+{
+	width: 30px;
+	padding: 6px 0px 6px 0px;
+	border-radius: 0px;
+	border:1px solid black;
+	background: black;
+	color:white;
+	font-size: 80%;
+	text-align: center;
+}
+
+.iconAu:hover
+{
+	color: black;
+	background: white;
+	border:1px solid black;
+	transition: .5s;
+}
+
+.personDiv
+{
+	background: #D6D8D7;
+}
+
+.personPic
+{
+	width: 90%;
+	height: 100%;
+	font-family: -webkit-pictograph;
+	line-height: 2;
+}
+
+.cardAu1
+{
+	height: 250px;
+}
+
+.anchorInAbout:hover
+{
+	color: red;
+	border-bottom: 2px solid red;
+	text-decoration: none;
+}
+
+.carouselInAbout
+{
+	background: url(../images/about/background-classic-home-interior.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.iconAu
+{
+	background: black;
+	opacity: .6;
+}
+
+.iconSe
+{
+	font-size: 117px;
+	color: red;
+}
+
+.iconSe:hover
+{
+	color: black;
+}
+
+.redBox
+{
+	border: 10px solid red;
+	padding: 60px 0px 60px 0px;
+	width: 300px;
+	line-height: 5;
+}
+
+.redBox1, .redBox2
+{
+	position: relative;
+}
+
+.redChild1, .redChild2
+{
+	position: absolute;
+	border-radius: 50%;
+	width: 100px;
+	left: 5px;
+	bottom: 173px;
+}
+
+.Bbtn2
+{
+	color: white;
+	background-color: #FFC938;
+	border:2px solid #FFC938;
+}
+
+.Bbtn2:hover
+{
+	color: #FFC938;
+	background-color: transparent;
+	border:2px solid #FFC938;
+}
+
+.SeLine
+{
+	padding-bottom: 20px;
+	border-bottom: 1px solid #D9D9D9;
+}
+
+.personPic2
+{
+	width: 100%;
+	height: 410px;
+}
+
+.highlightText:hover
+{
+	color: red;
+}
+
+.iconC
+{
+	width: 32px;
+	background: red;
+	border: 1px solid red;
+	color: white;
+}
+
+.iconC:hover
+{
+	background: white;
+	border: 1px solid red;
+	color: red;
+}
+
+.left
+{
+	align-items: center;
+}
+
+.dashBlack
+{
+	background: #F1F1F1;
+	width: 90%;
+}
+
+/* Blog */
+
+.logo
+{
+	width: 100px;
+	height: 100px;
+}
+
+.iconBlog
+{
+	font-size: 30px;
+}
+
+.btnBlack
+{
+	color: black;
+	border: 2px solid black;
+	background: white;
+}
+
+.smallPics
+{
+	width: 80px;
+	height: 77px;
+}
+
+/*Blog Grid*/
+
+.blogFirstDiv
+{
+	background: url(../images/blog/hero_inner_blog.jpg);
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding:0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.cardClr
+{
+	background: #EDEDED;
+}
+
+.dashSmallg4 
+{
+    background-color: red;
+    width: 55px;
+    border: 1px solid red;
+    float: left;
+}
+
+.fontSize
+{
+	font-size: 14px;
+}
+
+/*Menu*/
+
+.circlePic
+{
+	width: 90px;
+	height: 90px;
+	border-radius: 50%;
+}
+
+.LineSizeMenu
+{
+	width: 330px;
+}
+
+/*Menu HighLights*/
+
+.size1
+{
+	width: 100%;
+}
+
+.redFront1
+{
+	padding: 20px 3px 20px 20px;
+}
+
+.widthRedLine
+{
+	width: 100%;
+}
+
+.btnOutline
+{
+	border: 1px solid #CED4DA;
+}
+
+.btnForm
+{
+	background: red;
+	border: 1px solid red;
+}
+
+.new2
+{
+    background-color: #FF0000;
+    padding: 2px 10px 3px 10px;
+    width: 150px;
+}
+
+/*Reservation*/
+
+.slideImage
+{
+	height: 700px;
+}
+
+.blackText
+{
+	color: black !important;
+}
+
+.reservationLine
+{
+	line-height: 1.8;
+}
+
+/*@media only screen and (max-width:576px) 
+{
+	.line1 
+	{
+	    width: 20%;
+	}
+}*/
